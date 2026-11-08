@@ -1,0 +1,10 @@
+{
+    "max_length": 256,
+    "vocab_size": 20000,
+    "embedding_dim": 100,
+    "num_classes": 2,
+    "labels": {
+        "0": "Negative",
+        "1": "Positive"
+    }
+}
